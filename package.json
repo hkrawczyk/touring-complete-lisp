@@ -1,0 +1,9 @@
+{
+  "name": "js-lisp",
+  "description": "Touring-complete lisp.",
+  "author": "Hubert Krawczyk",
+  "version": "0.0.1",
+  "dependencies": {
+    "repl": "^0.1.3"
+  }
+}
